@@ -1,0 +1,11 @@
+exclude:
+- /contrib/scripts/dumpcerts.sh
+- /examples/.*
+- /generate.go
+- /testhelpers/helpers.go
+- /vendor/.*
+component_depth: 1
+languages:
+- go
+- javascript
+- script
